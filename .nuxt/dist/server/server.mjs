@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/thufe/Documents/Git-belajar/PESILAT/NuxtJS/grades-nuxt/node_modules/.pnpm/@nuxt+vite-builder@3.5.2_@types+node@18.0.0_vue@3.3.4/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
